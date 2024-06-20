@@ -1,16 +1,6 @@
 # secam_app
 
-A new Flutter project.
+The mobile app receives a real-time web stream and displays this stream on the "Camera View Page." It also pushes notifications from Firebase on the "Notification View Page." The main purpose of this mobile app is to ensure that workers are committed to workplace safety PBEs, and managers can save their precious time by using the app to see what the cameras see and receive notifications whenever a problem occurs.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo Video for the Mobile App:
+https://drive.google.com/file/d/1noO5_SU43BoRqVGG5zOlaes38C5B2g-r/view?usp=drive_link
