@@ -4,6 +4,12 @@
 
 SeCam is an innovative mobile application that leverages computer vision to enhance workplace safety by detecting workers who are not wearing Personal Protective Equipment (PPE). The app displays the output from a computer vision model that identifies non-compliance with PPE requirements, providing valuable feedback for corrective action.
 
+## Mode
+
+https://github.com/user-attachments/assets/757c4f55-8f74-40ea-bbf6-7d3b1a5c97e8
+
+l and App video
+
 ## Video
 
 
